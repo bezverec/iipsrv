@@ -1,0 +1,2 @@
+# Keep shell scripts executable on Unix, including in Docker bind mounts from Windows.
+*.sh text eol=lf
